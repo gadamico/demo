@@ -8,4 +8,4 @@ class Animal:
         self.legs = legs
         self.wings = wings
     
-max = Animal(legs=2, wings=0)
+greg = Animal(legs=2, wings=0)
