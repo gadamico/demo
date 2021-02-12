@@ -1,3 +1,3 @@
 # demo
 
-Eat at Joe's. The README should totally say this thing.
+Eat at Joe's, please. The README should totally say this thing.
